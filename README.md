@@ -8,7 +8,7 @@ A collection of practical Python projects, automation scripts, and programming s
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Project 1** | A brief description of what this script solves. | `Requests`, `BeautifulSoup` |
-| **Project 2** | Another cool solution or automation tool. | `Pandas`, `Matplotlib` |
+| **Project 1** | Rent Calculator For College  | `bill splitter`, `calculation` |
+
 
 
