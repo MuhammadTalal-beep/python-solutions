@@ -11,8 +11,4 @@ A collection of practical Python projects, automation scripts, and programming s
 | **Project 1** | A brief description of what this script solves. | `Requests`, `BeautifulSoup` |
 | **Project 2** | Another cool solution or automation tool. | `Pandas`, `Matplotlib` |
 
-## 🛠️ Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/python-solutions.git](https://github.com/YOUR-USERNAME/python-solutions.git)
