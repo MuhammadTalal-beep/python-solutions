@@ -9,6 +9,7 @@ A collection of practical Python projects, automation scripts, and programming s
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Project 1** | Rent Calculator For College  | `bill splitter`, `calculation` |
+| **Project 2** | Battle royale logic Game     |  'Game logic' |
 
 
 
